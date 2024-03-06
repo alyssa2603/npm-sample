@@ -1,0 +1,7 @@
+{
+    "name": "snakecase",
+    "dependencies": {
+        "snake-case": "^4.0.0"
+    },
+    "type": "module"
+}
